@@ -1,0 +1,14 @@
+body{
+	background-image: url(gipers.jpg);
+}
+h1{
+	text-align: center;
+	color: #FFFFFF;
+    font-size: 40px
+}
+p{
+	color: #FFFFFF;
+	font-size: 50px;
+	text-align: center;
+	font-family: segoe print;
+}
